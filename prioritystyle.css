@@ -1,0 +1,19 @@
+p {
+    background-color: red;
+}
+
+body > p {
+    background-color: aqua ;
+}
+
+.hello {
+    background-color: springgreen !important;
+}
+
+#hi.hello {
+    background-color: blue;
+}
+
+#body #hi.hello {
+    background-color: aquamarine;
+}
